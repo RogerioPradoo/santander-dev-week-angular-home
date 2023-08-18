@@ -45,59 +45,7 @@
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
-      Request Feature
-    </a>
-  </p>
-</div>
-
-## Features
-- [x] Fully Component With Angular
-
-## Technologies & Techniques
-
-This project was developed with the following technologies:
--   [Angular](https://angular.io)
-
-
-## Building
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Usage
-
-📦 1. Install dependencys
-
-```bash
-$ npm install
-```
-
-📁 2. Change Directory
-
-```bash
-$ cd santander-client
-```
-
-🔧 3. Run the script
-
-```bash
-$ ng serve
-```
-
-🌐 4. Navigate to
-
-```bash 
- http://localhost:4200/
-```
-Runs the app in the development mode.<br/>
+   
 
 ## Autor
 
